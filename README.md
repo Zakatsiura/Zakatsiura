@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ihor, currently learning WebDev
+### Hi there 👋 I am Ihor and I like WebDev
 
 ![codewars](https://www.codewars.com/users/Zakatsiura/badges/small)
 
