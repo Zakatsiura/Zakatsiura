@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Ihor, currently learning WebDev
 
 ![codewars](https://www.codewars.com/users/Zakatsiura/badges/large)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **Zakatsiura/Zakatsiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
