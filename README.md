@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ihor, currently learning WebDev
 
-![codewars](https://www.codewars.com/users/Zakatsiura/badges/large)
+![codewars](https://www.codewars.com/users/Zakatsiura/badges/small)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
