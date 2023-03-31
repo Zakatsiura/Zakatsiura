@@ -2,7 +2,7 @@
 
 ![codewars](https://www.codewars.com/users/Zakatsiura/badges/small)
 
-![freecodecamp](https://www.freecodecamp.org/ukrainian/news/author/ihor/)
+https://www.freecodecamp.org/ukrainian/news/author/ihor/
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
