@@ -1,10 +1,15 @@
 ### Hi there 👋 I am Ihor and I like WebDev
 
-![codewars](https://www.codewars.com/users/Zakatsiura/badges/small)
 
 https://www.freecodecamp.org/ukrainian/news/author/ihor/
 
+
+![codewars](https://www.codewars.com/users/Zakatsiura/badges/small)
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <!--
 **Zakatsiura/Zakatsiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
